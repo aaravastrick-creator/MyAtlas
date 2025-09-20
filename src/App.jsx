@@ -7,7 +7,7 @@ import CountryDetails from "./components/CountryDetails.jsx"
 import ContactPage from "./pages/ContactPage.jsx"
 import Applayout from "./pages/Applayout.jsx"
 import ErrorPage from "./pages/ErrorPage.jsx"
-import "./app.css"
+import "./App.css"
 
 const App = () => {
   const router = createBrowserRouter(
